@@ -70,36 +70,31 @@
 ## 🖼️ Screenshots
 
 ### 🔐 Login  
-![Login - User Login Page](assets/screenshots/login.png "Login Screen")
+![Login - User Login Page](Quizify/Snaps/Login.png "Login Screen")
 
 ### 📝 Signup  
-![Signup - User Signup Page](assets/screenshots/signup.png "Signup Screen")
+![Signup - User Signup Page](Quizify/Snaps/Signup.png "Signup Screen")
 
 ### 🏠 Home  
-![Home - Dashboard](assets/screenshots/home.png "Home Screen")
+![Home - Dashboard](Quizify/Snaps/Home.png "Home Screen")
 
 ### 🖼️ Landing Page  
-![Landing - Landing Page](assets/screenshots/landing.png "Landing Page")
+![Landing - Landing Page](Quizify/Snaps/Lander.png "Landing Page")
 
 ### 📊 Quiz Overview  
-![Quiz Overview - List of Quizzes](assets/screenshots/quiz-overview.png "Quiz Overview")
+![Quiz Overview - List of Quizzes](Quizify/Snaps/QuizView.png "Quiz Overview")
 
 ### 📄 Question List  
-![Question List - Admin Question Management](assets/screenshots/question-list.png "Question List")
+![Question List - Admin Question Management](Quizify/Snaps/QnList.png "Question List")
 
 ### 🧩 Create Quiz  
-![Create Quiz - Admin Quiz Creation](assets/screenshots/create-quiz.png "Create Quiz")
+![Create Quiz - Admin Quiz Creation](Quizify/Snaps/CreateQuiz.png "Create Quiz")
 
 ### ➕ Create Question  
-![Create Question - Admin Question Creation](assets/screenshots/create-question.png "Create Question")
+![Create Question - Admin Question Creation](Quizify/Snaps/CreateQn.png "Create Question")
 
 ---
 
-## 🎬 Demo Video
-
-> 🎥 [Watch the Demo](assets/demo/quizify-demo.mp4 "Quizify Demo Video")
-
----
 
 ## 🚀 Getting Started
 
